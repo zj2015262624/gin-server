@@ -25,7 +25,7 @@ var (
 		ErrorHandleFunc: func(ctx *gin.Context, err error) {
 			ctx.AbortWithError(500, err)
 		},
-		TokenKey: "github.com/go-oauth2/gin-server/access-token",
+		TokenKey: "github.com/zj2015262624/gin-server/access-token",
 		Skipper: func(_ *gin.Context) bool {
 			return false
 		},

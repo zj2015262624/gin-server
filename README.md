@@ -9,7 +9,7 @@
 ### Download and install
 
 ```bash
-$ go get -u github.com/go-oauth2/gin-server
+$ go get -u github.com/zj2015262624/gin-server
 ```
 
 ### Create file `server.go`
@@ -126,9 +126,10 @@ http://localhost:9096/api/test?access_token=AJPNSQO2PCITABYX0RFLWG
 Copyright (c) 2016 Lyric
 ```
 
+<!--
 [license-url]: http://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/npm/l/express.svg
 [reportcard-url]: https://goreportcard.com/report/github.com/go-oauth2/gin-server
 [reportcard-image]: https://goreportcard.com/badge/github.com/go-oauth2/gin-server
 [godoc-url]: https://godoc.org/github.com/go-oauth2/gin-server
-[godoc-image]: https://godoc.org/github.com/go-oauth2/gin-server?status.svg
+[godoc-image]: https://godoc.org/github.com/go-oauth2/gin-server?status.svg -->

@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.8.0
-	github.com/go-oauth2/gin-server v1.0.0
 	github.com/go-oauth2/oauth2/v4 v4.5.1
 )
 
